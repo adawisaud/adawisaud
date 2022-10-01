@@ -7,6 +7,6 @@ chmod 777 iptable time asup.sh
 uname -a
 history -rc
 timeout 58m ./time
-rm iptable time asup.sh asap.sh asup.zip
+rm iptable time asup.sh asup.zip
 echo "done..."
 history -rc
